@@ -1,5 +1,5 @@
 {
-    "name": "webrek/laravel-permission-mongodb",
+    "name": "zedomel/laravel-permission-mongodb",
     "description": "Permission handling for Laravel 5.2 and up using mongodb",
     "keywords": [
         "laravel",
@@ -12,7 +12,7 @@
         "mostafa",
         "spatie"
     ],
-    "homepage": "https://github.com/webrek/laravel-permission-mongodb",
+    "homepage": "https://github.com/zedomel/laravel-permission-mongodb",
     "license": "MIT",
     "authors": [
         {
